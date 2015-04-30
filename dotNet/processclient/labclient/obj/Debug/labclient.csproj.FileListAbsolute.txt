@@ -1,0 +1,24 @@
+E:\labclient\labclient\obj\Debug\ResolveAssemblyReference.cache
+E:\labclient\labclient\obj\Debug\labclient.Form1.resources
+E:\labclient\labclient\obj\Debug\labclient.Properties.Resources.resources
+E:\labclient\labclient\obj\Debug\labclient.csproj.GenerateResource.Cache
+E:\labclient\labclient\bin\Debug\labclient.exe
+E:\labclient\labclient\bin\Debug\labclient.pdb
+E:\labclient\labclient\obj\Debug\labclient.exe
+E:\labclient\labclient\obj\Debug\labclient.pdb
+C:\Documents and Settings\Application\Desktop\labclient\labclient\obj\Debug\labclient.exe
+C:\Documents and Settings\Application\Desktop\labclient\labclient\obj\Debug\labclient.pdb
+C:\Documents and Settings\Application\Desktop\labclient\labclient\bin\Debug\labclient.exe
+C:\Documents and Settings\Application\Desktop\labclient\labclient\bin\Debug\labclient.pdb
+C:\Documents and Settings\Application\Desktop\labclient\labclient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Application\Desktop\labclient\labclient\obj\Debug\labclient.Properties.Resources.resources
+C:\Documents and Settings\Application\Desktop\labclient\labclient\obj\Debug\labclient.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Desktop\labclient\labclient\obj\Debug\labclient.exe
+C:\Documents and Settings\Admin\Desktop\labclient\labclient\obj\Debug\labclient.pdb
+C:\Documents and Settings\Admin\Desktop\labclient\labclient\bin\Debug\labclient.exe
+C:\Documents and Settings\Admin\Desktop\labclient\labclient\bin\Debug\labclient.pdb
+C:\Documents and Settings\Admin\Desktop\labclient\labclient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Desktop\labclient\labclient\obj\Debug\labclient.Form1.resources
+C:\Documents and Settings\Admin\Desktop\labclient\labclient\obj\Debug\labclient.Properties.Resources.resources
+C:\Documents and Settings\Admin\Desktop\labclient\labclient\obj\Debug\labclient.csproj.GenerateResource.Cache
+C:\Documents and Settings\Application\Desktop\labclient\labclient\obj\Debug\labclient.Frm1.resources

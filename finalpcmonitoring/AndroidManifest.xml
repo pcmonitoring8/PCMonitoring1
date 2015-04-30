@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.finalpcmonitoring"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="10" />
+	<uses-permission  android:name="android.permission.SEND_SMS"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/imgmsg"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.finalpcmonitoring.Main_Menu"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.example.finalpcmonitoring.LogIn"
+            android:label="@string/app_name" >
+             <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.finalpcmonitoring.Machine"
+            android:label="@string/app_name" >
+        </activity>
+         <activity
+            android:name="com.example.finalpcmonitoring.Application"
+            android:label="@string/app_name" >
+        </activity>
+         <activity
+            android:name="com.example.finalpcmonitoring.DiskSpace"
+            android:label="@string/app_name" >
+        </activity>
+         <activity
+            android:name="com.example.finalpcmonitoring.FileShare"
+            android:label="@string/app_name" >
+        </activity>
+        
+            
+       
+    </application>
+
+</manifest>

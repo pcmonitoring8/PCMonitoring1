@@ -1,0 +1,26 @@
+dwm-1/18/2015 11:46:13 AM  True
+igfxsrvc-1/18/2015 11:46:53 AM  True
+efsui-1/18/2015 4:13:00 PM  True
+taskhost-1/18/2015 12:36:13 PM  True
+labclient.vshost-1/18/2015 4:29:56 PM Form1 True
+devenv-1/18/2015 4:28:30 PM pcdesgininig1 - Microsoft Visual Studio (Administrator) True
+devenv-1/18/2015 4:22:16 PM labclient (Running) - Microsoft Visual Studio (Administrator) True
+ONLINENT-1/18/2015 11:46:53 AM  True
+RtkNGUI64-1/18/2015 11:46:53 AM  True
+msvsmon-1/18/2015 4:27:08 PM  True
+hkcmd-1/18/2015 11:46:53 AM  True
+BtTray-1/18/2015 11:46:54 AM  True
+notepad-1/18/2015 4:27:24 PM Untitled - Notepad True
+notepad-1/18/2015 4:27:24 PM Untitled - Notepad True
+iusb3mon-1/18/2015 11:46:55 AM  True
+msvsmon-1/18/2015 4:28:36 PM  True
+taskeng-1/18/2015 11:46:43 AM  True
+eclipse-1/18/2015 2:46:40 PM Java - pcpc/AndroidManifest.xml - ADT True
+igfxpers-1/18/2015 11:46:53 AM  True
+YCMMirage-1/18/2015 11:46:43 AM {94F11419-869E-47aa-9563-F48591285CAD} True
+notepad-1/18/2015 4:27:13 PM  True
+taskhost-1/18/2015 11:46:13 AM  True
+pcdesgininig1.vshost-1/18/2015 4:28:35 PM  True
+igfxtray-1/18/2015 11:46:53 AM  True
+explorer-1/18/2015 11:46:13 AM  True
+adb-1/18/2015 2:47:50 PM  True

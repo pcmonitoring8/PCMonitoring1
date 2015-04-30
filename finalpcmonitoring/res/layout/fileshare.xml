@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    
+     xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/imgmain"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <Spinner
+        android:id="@+id/spn1MachineList"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:entries="@array/machinename" />
+
+    <EditText
+        android:id="@+id/txtemail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Enter Email Id"
+        android:inputType="textPersonName" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/txtfolder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Enter Shared Folder Name"
+        android:inputType="textPersonName" />
+    
+      <EditText
+          android:id="@+id/txtfile"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:ems="10"
+          android:hint="Enter File Name"
+          android:inputType="textPersonName" >
+
+    </EditText>
+
+    <Button
+        android:id="@+id/btnfile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="doDisplayFileShare"
+        android:text="Perform" />
+
+</TableLayout>

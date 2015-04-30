@@ -1,0 +1,35 @@
+sqlwriter-10/2/2014 1:01:13 PM  True
+SAPISSVC-10/2/2014 1:00:32 PM  True
+SCANWSCS-10/2/2014 1:01:04 PM  True
+hkcmd-10/2/2014 1:01:00 PM  True
+firefox-10/2/2014 2:58:31 PM Solution to yesterday's queries - pcmonitoring8@gmail.com - Gmail - Mozilla Firefox True
+lsass-10/2/2014 1:00:21 PM  True
+quhlpsvc-10/2/2014 1:01:00 PM  True
+TNSLSNR-10/2/2014 1:00:58 PM  True
+labclient.vshost-10/2/2014 3:43:52 PM Form1 True
+services-10/2/2014 1:00:21 PM  True
+chrome-10/2/2014 1:01:12 PM  True
+igfxtray-10/2/2014 1:00:59 PM  True
+igfxpers-10/2/2014 1:01:01 PM  True
+OPSSVC-10/2/2014 1:00:45 PM  True
+emlproxy-10/2/2014 1:00:31 PM  True
+SCSECSVC-10/2/2014 1:00:24 PM  True
+svchost-10/2/2014 1:00:24 PM  True
+accasrvc-10/2/2014 1:00:29 PM  True
+smss-10/2/2014 1:00:14 PM  True
+explorer-10/2/2014 1:00:45 PM  True
+oracle-10/2/2014 1:00:46 PM  True
+mdm-10/2/2014 1:00:37 PM  True
+jqs-10/2/2014 1:00:35 PM  True
+pcdesgininig1.vshost-10/2/2014 3:32:17 PM  True
+BDSSVC-10/2/2014 1:00:29 PM  True
+RTHDCPL-10/2/2014 1:01:03 PM  True
+winlogon-10/2/2014 1:00:19 PM  True
+devenv-10/2/2014 2:59:50 PM pcdesgininig1 - Microsoft Visual Studio True
+svchost-10/2/2014 1:00:25 PM  True
+spoolsv-10/2/2014 1:00:29 PM  True
+devenv-10/2/2014 3:40:13 PM labclient (Running) - Microsoft Visual Studio True
+ONLINENT-10/2/2014 1:01:11 PM  True
+System-1/1/1601 5:30:00 AM  True
+igfxsrvc-10/2/2014 1:01:02 PM  True
+inetinfo-10/2/2014 1:00:34 PM  True

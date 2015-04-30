@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@drawable/imagesvv"
+    android:layout_height="match_parent" >
+
+     <TextView
+         android:id="@+id/textView2"
+         android:layout_width="50dp"
+         android:layout_height="wrap_content"
+         android:layout_alignLeft="@+id/btnrestart"
+         android:layout_alignRight="@+id/btnrestart"
+         android:layout_below="@+id/btnrestart"
+         android:text="Restart"
+         android:textAppearance="?android:attr/textAppearanceLarge"
+         android:textSize="16sp" />
+
+     <TextView
+         android:id="@+id/textView1"
+         android:layout_width="50dp"
+         android:layout_height="wrap_content"
+         android:layout_alignLeft="@+id/btnshutdown"
+         android:layout_alignRight="@+id/btnshutdown"
+         android:layout_below="@+id/btnshutdown"
+         android:text="ShutDown"
+         android:textAppearance="?android:attr/textAppearanceLarge"
+         android:textSize="16sp" />
+
+            <Button
+                android:id="@+id/btnkillprocess"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:layout_alignLeft="@+id/textView2"
+                android:layout_below="@+id/textView2"
+                android:background="@drawable/imgkill"
+                android:onClick="doDisplayApplictionList" />
+
+            <Button
+                android:id="@+id/btnshutdown"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:layout_alignParentTop="true"
+                android:layout_marginRight="44dp"
+                android:layout_marginTop="18dp"
+                android:layout_toLeftOf="@+id/btnrestart"
+                android:background="@drawable/imgshutdown"
+                android:gravity="center_horizontal|center_vertical"
+                android:onClick="doDisplayMachineList" />
+
+             <Button
+                 android:id="@+id/btnrestart"
+                 android:layout_width="75dp"
+                 android:layout_height="75dp"
+                 android:layout_alignBaseline="@+id/btnshutdown"
+                 android:layout_alignBottom="@+id/btnshutdown"
+                 android:layout_alignParentRight="true"
+                 android:layout_marginRight="58dp"
+                 android:background="@drawable/imgrestart"
+                 android:gravity="center_horizontal|center_vertical"
+                 android:onClick="doDisplayMachineList" />
+
+             <Button
+                 android:id="@+id/btnstartprocess"
+                 android:layout_width="75dp"
+                 android:layout_height="75dp"
+                 android:layout_alignBaseline="@+id/btnkillprocess"
+                 android:layout_alignBottom="@+id/btnkillprocess"
+                 android:layout_alignLeft="@+id/textView1"
+                 android:background="@drawable/imgstart"
+                 android:onClick="doDisplayApplictionList" />
+
+              <TextView
+                  android:id="@+id/textView3"
+                  android:layout_width="90dp"
+                  android:layout_height="wrap_content"
+                  android:layout_alignLeft="@+id/btnstartprocess"
+                  android:layout_below="@+id/btnstartprocess"
+                  android:layout_toLeftOf="@+id/btnkillprocess"
+                  android:text="Startprocess"
+                  android:textAppearance="?android:attr/textAppearanceLarge"
+                  android:textSize="16sp" />
+
+              <TextView
+                  android:id="@+id/TextView4"
+                  android:layout_width="90dp"
+                  android:layout_height="wrap_content"
+                  android:layout_alignRight="@+id/btnkillprocess"
+                  android:layout_below="@+id/btnkillprocess"
+                  android:text="killprocess"
+                  android:textAppearance="?android:attr/textAppearanceLarge"
+                  android:textSize="16sp" />
+
+            <Button
+                android:id="@+id/btncapturescreen"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:layout_alignRight="@+id/TextView4"
+                android:layout_below="@+id/TextView4"
+                android:background="@drawable/imgcapture"
+                android:onClick="doDisplayMachineList" />
+
+            <Button
+                android:id="@+id/btnfile"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:layout_alignBaseline="@+id/btncapturescreen"
+                android:layout_alignBottom="@+id/btncapturescreen"
+                android:layout_alignLeft="@+id/textView3"
+                android:background="@drawable/imgfileshare"
+                android:onClick="doDisplayFileShare" />
+
+            <TextView
+                android:id="@+id/TextView5"
+                android:layout_width="90dp"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/btnfile"
+                android:layout_below="@+id/btnfile"
+                android:text="Share File"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/TextView01"
+                android:layout_width="90dp"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/btncapturescreen"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/btncapturescreen"
+                android:text="capturescreen"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textSize="16sp" />
+
+             <Button
+                 android:id="@+id/btnprocesslist"
+                 android:layout_width="75dp"
+                 android:layout_height="75dp"
+                 android:layout_alignLeft="@+id/TextView5"
+                 android:layout_below="@+id/TextView5"
+                 android:background="@drawable/imgprocesslist"
+                 android:onClick="doDisplayMachineList" />
+
+             <Button
+                 android:id="@+id/btndiskspace"
+                 android:layout_width="75dp"
+                 android:layout_height="75dp"
+                 android:layout_alignLeft="@+id/TextView01"
+                 android:layout_below="@+id/TextView01"
+                 android:background="@drawable/imgdisk"
+                 android:onClick="doDisplayDiskSpace" />
+
+             <TextView
+                 android:id="@+id/TextView7"
+                 android:layout_width="90dp"
+                 android:layout_height="wrap_content"
+                 android:layout_alignRight="@+id/btnprocesslist"
+                 android:layout_below="@+id/btnprocesslist"
+                 android:text="Processlist"
+                 android:textAppearance="?android:attr/textAppearanceLarge"
+                 android:textSize="16sp" />
+
+             <TextView
+                 android:id="@+id/TextView8"
+                 android:layout_width="90dp"
+                 android:layout_height="wrap_content"
+                 android:layout_alignLeft="@+id/btndiskspace"
+                 android:layout_below="@+id/btndiskspace"
+                 android:text="Diskspace"
+                 android:textAppearance="?android:attr/textAppearanceLarge"
+                 android:textSize="16sp" />
+
+</RelativeLayout>

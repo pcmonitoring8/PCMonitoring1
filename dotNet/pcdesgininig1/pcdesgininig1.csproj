@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0C3073D1-4678-4CB1-9975-42B7C5E91AA0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>pcdesgininig1</RootNamespace>
+    <AssemblyName>pcdesgininig1</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="SMS_SEND_RECEIVE, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\x86\Debug\SMS_SEND_RECEIVE.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Management.Instrumentation">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="appinfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="appinfo.Designer.cs">
+      <DependentUpon>appinfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="capturingscreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="capturingscreen.Designer.cs">
+      <DependentUpon>capturingscreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="diskspace.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="diskspace.Designer.cs">
+      <DependentUpon>diskspace.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fileshare.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fileshare.Designer.cs">
+      <DependentUpon>fileshare.cs</DependentUpon>
+    </Compile>
+    <Compile Include="smsengine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="smsengine.Designer.cs">
+      <DependentUpon>smsengine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menu.Designer.cs">
+      <DependentUpon>menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pcnoname.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pcnoname.Designer.cs">
+      <DependentUpon>pcnoname.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="appinfo.resx">
+      <DependentUpon>appinfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="capturingscreen.resx">
+      <DependentUpon>capturingscreen.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="diskspace.resx">
+      <DependentUpon>diskspace.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fileshare.resx">
+      <DependentUpon>fileshare.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="smsengine.resx">
+      <DependentUpon>smsengine.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menu.resx">
+      <DependentUpon>menu.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pcnoname.resx">
+      <DependentUpon>pcnoname.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reg.resx">
+      <DependentUpon>reg.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="showprocesslist.resx">
+      <DependentUpon>showprocesslist.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="shutdown.resx">
+      <DependentUpon>shutdown.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="startkill.resx">
+      <DependentUpon>startkill.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="reg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reg.Designer.cs">
+      <DependentUpon>reg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="showprocesslist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="showprocesslist.Designer.cs">
+      <DependentUpon>showprocesslist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="shutdown.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="shutdown.Designer.cs">
+      <DependentUpon>shutdown.cs</DependentUpon>
+    </Compile>
+    <Compile Include="startkill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="startkill.Designer.cs">
+      <DependentUpon>startkill.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\6.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\4.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\login1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\regf.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b2.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\5.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\23.jpeg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

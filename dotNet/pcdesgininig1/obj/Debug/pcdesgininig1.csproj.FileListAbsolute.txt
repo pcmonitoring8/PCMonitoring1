@@ -1,0 +1,92 @@
+G:\pcdesgininig1\pcdesgininig1\bin\Debug\pcdesgininig1.exe
+G:\pcdesgininig1\pcdesgininig1\bin\Debug\pcdesgininig1.pdb
+G:\pcdesgininig1\pcdesgininig1\obj\Debug\ResolveAssemblyReference.cache
+G:\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_capturingscreen.resources
+G:\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_diskspace.resources
+G:\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_fileshare.resources
+G:\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_login.resources
+G:\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.Properties.Resources.resources
+G:\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_reg.resources
+G:\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_showprocesslist.resources
+G:\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_startkill.resources
+G:\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.csproj.GenerateResource.Cache
+G:\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.exe
+G:\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.pdb
+G:\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_pcnumbername.resources
+G:\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_appinfo.resources
+G:\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_menu.resources
+C:\Documents and Settings\Admin\Desktop\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.exe
+C:\Documents and Settings\Admin\Desktop\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.pdb
+C:\Documents and Settings\Admin\Desktop\pcdesgininig1\pcdesgininig1\bin\Debug\pcdesgininig1.exe
+C:\Documents and Settings\Admin\Desktop\pcdesgininig1\pcdesgininig1\bin\Debug\pcdesgininig1.pdb
+C:\Documents and Settings\Admin\Desktop\pcdesgininig1\pcdesgininig1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Desktop\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_appinfo.resources
+C:\Documents and Settings\Admin\Desktop\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_capturingscreen.resources
+C:\Documents and Settings\Admin\Desktop\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_diskspace.resources
+C:\Documents and Settings\Admin\Desktop\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_fileshare.resources
+C:\Documents and Settings\Admin\Desktop\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_login.resources
+C:\Documents and Settings\Admin\Desktop\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_menu.resources
+C:\Documents and Settings\Admin\Desktop\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_pcnumbername.resources
+C:\Documents and Settings\Admin\Desktop\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.Properties.Resources.resources
+C:\Documents and Settings\Admin\Desktop\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_reg.resources
+C:\Documents and Settings\Admin\Desktop\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_showprocesslist.resources
+C:\Documents and Settings\Admin\Desktop\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_startkill.resources
+C:\Documents and Settings\Admin\Desktop\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Desktop\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_shutdown.resources
+E:\shahin\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.exe
+E:\shahin\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.pdb
+E:\shahin\pcdesgininig1\pcdesgininig1\bin\Debug\pcdesgininig1.exe
+E:\shahin\pcdesgininig1\pcdesgininig1\bin\Debug\pcdesgininig1.pdb
+E:\shahin\pcdesgininig1\pcdesgininig1\obj\Debug\ResolveAssemblyReference.cache
+E:\shahin\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_appinfo.resources
+E:\shahin\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_capturingscreen.resources
+E:\shahin\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_diskspace.resources
+E:\shahin\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_fileshare.resources
+E:\shahin\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_login.resources
+E:\shahin\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_menu.resources
+E:\shahin\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_pcnumbername.resources
+E:\shahin\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.Properties.Resources.resources
+E:\shahin\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_reg.resources
+E:\shahin\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_showprocesslist.resources
+E:\shahin\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_shutdown.resources
+E:\shahin\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_startkill.resources
+E:\shahin\pcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.csproj.GenerateResource.Cache
+E:\shahin\oldpcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.exe
+E:\shahin\oldpcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.pdb
+E:\shahin\oldpcdesgininig1\pcdesgininig1\obj\Debug\ResolveAssemblyReference.cache
+E:\shahin\oldpcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_appinfo.resources
+E:\shahin\oldpcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_capturingscreen.resources
+E:\shahin\oldpcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_diskspace.resources
+E:\shahin\oldpcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_fileshare.resources
+E:\shahin\oldpcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.smsengine.resources
+E:\shahin\oldpcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_login.resources
+E:\shahin\oldpcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_menu.resources
+E:\shahin\oldpcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_pcnumbername.resources
+E:\shahin\oldpcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.Properties.Resources.resources
+E:\shahin\oldpcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_reg.resources
+E:\shahin\oldpcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_showprocesslist.resources
+E:\shahin\oldpcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_shutdown.resources
+E:\shahin\oldpcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.frm_startkill.resources
+E:\shahin\oldpcdesgininig1\pcdesgininig1\obj\Debug\pcdesgininig1.csproj.GenerateResource.Cache
+E:\shahin\oldpcdesgininig1\pcdesgininig1\bin\Debug\pcdesgininig1.exe
+E:\shahin\oldpcdesgininig1\pcdesgininig1\bin\Debug\pcdesgininig1.pdb
+E:\SMS PC Control\dotNet\pcdesgininig1\obj\Debug\pcdesgininig1.exe
+E:\SMS PC Control\dotNet\pcdesgininig1\obj\Debug\pcdesgininig1.pdb
+E:\SMS PC Control\dotNet\pcdesgininig1\obj\Debug\ResolveAssemblyReference.cache
+E:\SMS PC Control\dotNet\pcdesgininig1\obj\Debug\pcdesgininig1.frm_appinfo.resources
+E:\SMS PC Control\dotNet\pcdesgininig1\obj\Debug\pcdesgininig1.frm_capturingscreen.resources
+E:\SMS PC Control\dotNet\pcdesgininig1\obj\Debug\pcdesgininig1.frm_diskspace.resources
+E:\SMS PC Control\dotNet\pcdesgininig1\obj\Debug\pcdesgininig1.frm_fileshare.resources
+E:\SMS PC Control\dotNet\pcdesgininig1\obj\Debug\pcdesgininig1.smsengine.resources
+E:\SMS PC Control\dotNet\pcdesgininig1\obj\Debug\pcdesgininig1.frm_login.resources
+E:\SMS PC Control\dotNet\pcdesgininig1\obj\Debug\pcdesgininig1.frm_menu.resources
+E:\SMS PC Control\dotNet\pcdesgininig1\obj\Debug\pcdesgininig1.frm_pcnumbername.resources
+E:\SMS PC Control\dotNet\pcdesgininig1\obj\Debug\pcdesgininig1.Properties.Resources.resources
+E:\SMS PC Control\dotNet\pcdesgininig1\obj\Debug\pcdesgininig1.frm_reg.resources
+E:\SMS PC Control\dotNet\pcdesgininig1\obj\Debug\pcdesgininig1.frm_showprocesslist.resources
+E:\SMS PC Control\dotNet\pcdesgininig1\obj\Debug\pcdesgininig1.frm_shutdown.resources
+E:\SMS PC Control\dotNet\pcdesgininig1\obj\Debug\pcdesgininig1.frm_startkill.resources
+E:\SMS PC Control\dotNet\pcdesgininig1\obj\Debug\pcdesgininig1.csproj.GenerateResource.Cache
+E:\SMS PC Control\dotNet\pcdesgininig1\bin\Debug\pcdesgininig1.exe
+E:\SMS PC Control\dotNet\pcdesgininig1\bin\Debug\pcdesgininig1.pdb
+E:\SMS PC Control\dotNet\pcdesgininig1\bin\Debug\SMS_SEND_RECEIVE.dll
